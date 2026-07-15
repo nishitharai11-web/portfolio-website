@@ -54,6 +54,10 @@ rel="noopener noreferrer"
 <button className="outline">💻 Source Code</button>
 </a>
 
+<a href="mailto:nishitharai11@gmail.com">
+  <button className="outline">📩 Contact Me</button>
+</a>
+
 </div>
 
 </div>
